@@ -7,5 +7,7 @@ Check out the [demo video](https://youtu.be/XwKK_wbBUvI).
 
 ### About
 
-- Basic Robot Framework tests focused on my own personal website. Checks that the site's content appears and that the contact form works properly. 
+- Basic Robot Framework tests focused on my own personal website
+- Checks that the site's content appears and that the contact form works properly.
+- Created using PyCharm and SeleniumLibrary.
 - Made in 2023.
