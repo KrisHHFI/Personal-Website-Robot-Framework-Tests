@@ -1,7 +1,7 @@
 # Personal Website Robot Framework Tests
 
-<img src="RFT1.png" height="400"/>
-<img src="RFT2.png" height="400"/>
+<img src="RFT1.png"/>
+<img src="RFT2.png"/>
 
 Check out the [demo video](https://youtu.be/XwKK_wbBUvI).
 
